@@ -1,2 +1,6 @@
 Approach Problem 1:
 The code iterates through each element of the array nums. For each element at index i, it compares the current element with the next element (wrapping around to the beginning if needed using % nums.length). If the current element is greater than the next element, it increments the counter c. The counter c keeps track of the number of violations found in the array. If at any point c exceeds 1, it means there are more than one violations, indicating that the array cannot be sorted with a single modification. In such a case, the method returns false. Otherwise, if c remains 0 or 1 throughout the loop, it means the array can be sorted with at most one modification, and the method returns true.
+
+
+Approach Problem 2:
+I have used two pointers as i and j. j will iterate throught the array using for loop and i will be keep on increasing till for loop reaches the last element. If j is not equal to to i then store value of j at the next index of i and increment the value of i pointer as it will move to next index. To return the total elements of the array with unique element we have used i + 1.
