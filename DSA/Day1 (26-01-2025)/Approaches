@@ -4,3 +4,7 @@ The code iterates through each element of the array nums. For each element at in
 
 Approach Problem 2:
 I have used two pointers as i and j. j will iterate throught the array using for loop and i will be keep on increasing till for loop reaches the last element. If j is not equal to to i then store value of j at the next index of i and increment the value of i pointer as it will move to next index. To return the total elements of the array with unique element we have used i + 1.
+
+
+Approach Problem 3:
+The approach I took was to create a new array arr of the same length as the original array nums. Then, I iterated through the original array and for each element, I calculated its new index by adding the rotation index k to its current index. If the new index was greater than or equal to the length of the array, I subtracted the length of the array from it to wrap around. I assigned the element at the current index in the original array to the new index in the new array. Finally, I copied the elements from the new array back to the original array.
