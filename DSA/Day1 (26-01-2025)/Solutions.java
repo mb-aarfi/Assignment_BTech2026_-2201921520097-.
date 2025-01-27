@@ -1,4 +1,4 @@
-Solution Problem 1:
+//Solution Problem 1://
 class Solution {
     public boolean check(int[] nums) {
     int c = 0;
@@ -16,4 +16,4 @@ class Solution {
 }
 
 
-Problem 2:
+//Problem 2://
