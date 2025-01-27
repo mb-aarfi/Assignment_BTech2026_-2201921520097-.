@@ -17,7 +17,7 @@ Welcome to my journey of completing the **college assignment** from **26th Janua
 
 ### **Data Structures & Algorithms (DSA)**
 
-| Date       | Problem 1 | Problem 2 | Problem 3 | Platform | Approach & Solution |
+| Date       | Problem 1 | Problem 2 | Problem 3 | Approach | Solution |
 |------------|-----------|-----------|-----------|----------|----------------------|
 | 26-01-2025 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Problem Title 2](#) | [Problem Title 3](#) | LeetCode   | [Approach Link](#)   |
 | 27-01-2025 | [Problem Title 1](#) | [Problem Title 2](#) | [Problem Title 3](#) | LeetCode | [Approach Link](#)   |
