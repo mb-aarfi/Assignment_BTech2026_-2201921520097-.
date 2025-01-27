@@ -83,4 +83,5 @@ This assignment is a great opportunity to build consistency and improve problem-
 
 ---
 
-Feel free to adapt or extend this README as needed!
+If you'd like to collaborate on this assignment or provide any guidance, please feel free to reach out!
+Your feedback, suggestions, or contributions are highly appreciated. Let’s learn and grow together!
