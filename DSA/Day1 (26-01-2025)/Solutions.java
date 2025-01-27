@@ -16,6 +16,7 @@ class Solution {
 }
 
 
+
 //Problem 2://
 class Solution {
     public int removeDuplicates(int[] nums) {
@@ -30,5 +31,27 @@ class Solution {
         }
         return i+1;
     
+    }
+}
+
+
+
+//Problem 3://
+class Solution {
+    public void rotate(int[] nums, int k) {
+        int n= nums.length;
+        int arr[] =new int[n];
+        for(int i=0 ;i<n;i++){
+            int news= i+k;
+            while(news>=n){
+                news= news - n;
+            }
+            arr[news]= nums[i];
+        }
+     
+        for (int i=0; i<n; i++) {
+            nums[i] = arr[i];
+        }
+        
     }
 }
