@@ -12,12 +12,6 @@ Welcome to my journey of completing the **college assignment** from **26th Janua
 2. Solve **1 OOPS problem**.
 3. Solve **1 DBMS problem**.
 
-### **Repository Guidelines**
-- **Repository Name**: `Assignment_BTech2026_[Your Roll Number]`
-- **Submission Rules**:
-  - Only OOPS problem solutions are uploaded here.
-  - A README file is maintained, detailing problem statements, platforms used, approaches, and solutions.
-
 ---
 
 ## Progress Table
