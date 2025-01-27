@@ -40,39 +40,6 @@ Welcome to my journey of completing the **college assignment** from **26th Janua
 | 26-01-2025 | [Problem Title](#)           | SQLZoo          | [Explain SQL queries, joins, or indexing](#)  | [Query File](#)    |
 | 27-01-2025 | [Problem Title](#)           | HackerRank      | [Explanation of normalization, constraints](#)| [Query File](#)    |
 
----
-
-## Example Daily Log
-
-### **Date**: 25-01-2025  
-
-#### **DSA**
-1. **Problem 1**: [Two Sum](https://leetcode.com/problems/two-sum/)  
-   - **Platform**: LeetCode  
-   - **Approach**: Used a hash map to achieve O(n) complexity.  
-   - **Solution**: [Code](#)
-
-2. **Problem 2**: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)  
-   - **Platform**: LeetCode  
-   - **Approach**: Iterative solution to reverse a linked list.  
-   - **Solution**: [Code](#)
-
-3. **Problem 3**: [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)  
-   - **Platform**: LeetCode  
-   - **Approach**: Used recursion for simplicity.  
-   - **Solution**: [Code](#)
-
-#### **OOPS**
-- **Problem Statement**: Implement a class to simulate a bank account with features like deposit, withdrawal, and balance inquiry.  
-- **Platform**: HackerRank  
-- **Approach**: Designed a class with encapsulated data members and methods for operations.  
-- **Solution**: [Solution File](#)
-
-#### **DBMS**
-- **Problem Statement**: Write an SQL query to find employees earning more than the average salary in a department.  
-- **Platform**: SQLZoo  
-- **Approach**: Used `AVG()` with `GROUP BY` to calculate department-wise average salaries and filtered employees using a subquery.  
-- **Solution**: [Query File](#)
 
 ---
 
