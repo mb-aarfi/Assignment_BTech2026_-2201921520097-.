@@ -1,0 +1,2 @@
+Approach:
+The query retrieves the names of customers from the `Customer` table by applying a filter condition. It selects customers whose `referee_id` is not equal to 2 or is `NULL`, ensuring that customers without referee ID 2 or no referee assigned are included in the result. The logical `OR` combines these conditions, and the `SELECT` clause extracts only the `name` column from the matching rows.
