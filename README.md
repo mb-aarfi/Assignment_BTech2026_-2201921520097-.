@@ -28,7 +28,7 @@ Welcome to my journey of completing the **college assignment** from **26th Janua
 
 | Date       | Problem Statement            | Coding Platform | Approach Explanation                          | Solution Link      |
 |------------|------------------------------|-----------------|-----------------------------------------------|--------------------|
-| 26-01-2025 | [Problem Title](#)           | HackerRank      | [Explanation of OOP design, classes, etc.](#) | [Solution File](#) |
+| 26-01-2025 | [Java Inheritence I](#)           | HackerRank      | [Approach Link](https://github.com/mb-aarfi/Assignment_BTech2026_-2201921520097-./blob/main/OOPS/26-01-2025%20-%20Approach) | [Solution Link](https://github.com/mb-aarfi/Assignment_BTech2026_-2201921520097-./blob/main/OOPS/26-01-2025%20-%20Solution.java) |
 | 27-01-2025 | [Problem Title](#)           | GeeksforGeeks   | [Explanation of inheritance or polymorphism](#) | [Solution File](#) |
 
 ---
