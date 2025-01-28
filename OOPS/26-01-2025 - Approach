@@ -1,0 +1,1 @@
+I added a `sing` method to the `Bird` class to print "I am singing." In the `main` method, I created a `Bird` object and called its `walk` and `fly` methods, which were already present, and then called the new `sing` method. This demonstrated that the `Bird` class inherited functionality from `Animal` while also having its own unique behavior.
