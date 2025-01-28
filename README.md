@@ -37,7 +37,7 @@ Welcome to my journey of completing the **college assignment** from **26th Janua
 
 | Date       | Problem Statement            | Coding Platform | Approach Explanation                          | Solution           |
 |------------|------------------------------|-----------------|-----------------------------------------------|--------------------|
-| 26-01-2025 | [Problem Title](#)           | SQLZoo          | [Explain SQL queries, joins, or indexing](#)  | [Query File](#)    |
+| 26-01-2025 | [Find Customer Refree](#)           | Leetcode          | [Approach Link](https://github.com/mb-aarfi/Assignment_BTech2026_-2201921520097-./blob/main/DBMS/26-01-2025%20-%20Approach)  | [Solution Link](https://github.com/mb-aarfi/Assignment_BTech2026_-2201921520097-./blob/main/DBMS/26-01-2025%20-%20Solution)    |
 | 27-01-2025 | [Problem Title](#)           | HackerRank      | [Explanation of normalization, constraints](#)| [Query File](#)    |
 
 
